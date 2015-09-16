@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 起世因本經
+#+DATE: 2015-08-30 19:28:26.697460
+#+PROPERTY: JUAN 0

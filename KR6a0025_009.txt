@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:26.390160
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:23
 #+TITLE: 起世因本經
 #+PROPERTY: CBETA_ID T01n0025
 #+PROPERTY: ID KR6a0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 025
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6a0025_T_000-0365a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0025_T_009-0408b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《起世因本經》卷第九¶
+《起世因本經》卷第九¶
 ¶
 隋天竺沙門達摩笈多譯¶
 
-10劫住品
-:PROPERTIES:
-:head: 劫住品第十
-:END:
-¶
+* 劫住品第十¶
 
 「諸比丘！世間凡有三種中劫。何等為三？一者¶
 所謂刀杖中劫、二者所謂飢饉中劫、三者¶
@@ -106,11 +101,7 @@
 是義故，得生天上，以是名為疾疫中劫。諸¶
 比丘！是名世間三種中劫。¶
 
-11住世品
-:PROPERTIES:
-:head: 《起世經》住世品第十一
-:END:
-¶
+* 《起世經》住世品第十一¶
 
 「諸比丘！世間之中，有四無量，不可得量、不¶
 可得稱、不可思議。若天若人，世中算數，欲¶
@@ -478,11 +469,7 @@
 比丘！如是次第，有於風吹，此等名為世間¶
 三災。¶
 
-12最勝品
-:PROPERTIES:
-:head: 《起世經》最勝品第十二上
-:END:
-¶
+* 《起世經》最勝品第十二上¶
 
 「復次，諸比丘！彼三摩耶世間轉已，如是成
 <pb:KR6a0025_T_009-0413b>¶

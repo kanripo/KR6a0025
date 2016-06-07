@@ -1,26 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:28:26.345018
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:23
 #+TITLE: 起世因本經
 #+PROPERTY: CBETA_ID T01n0025
 #+PROPERTY: ID KR6a0025
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 1, No. 025
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6a0025_T_000-0365a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0025_T_007-0397b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《起世因本經》卷第七¶
+《起世因本經》卷第七¶
 ¶
 隋天竺沙門達摩笈多譯¶
 
-:PROPERTIES:
-:head: 三十三天品中
-:END:
-¶
+* 三十三天品中¶
 
 「諸比丘！又彼園中，有何因緣，名為歡喜？諸¶
 比丘！彼歡喜園，三十三天王入其中已，坐¶
@@ -231,7 +227,7 @@
 <pb:KR6a0025_T_007-0399c>¶
 四天王壽五百歲，中亦有夭；三十三天，壽¶
 命千歲；夜摩諸天，壽二千歲；兜率陀天，壽¶
-四千歲；化樂諸天，壽八千歲；他化自在天，¶
+四千歲；化樂諸天，壽八干歲；他化自在天，¶
 壽十六千歲；魔身天，壽三萬二千歲；梵身¶
 天壽一劫；光憶念天，壽命二劫；遍淨諸天，¶
 壽命四劫；廣果諸天，壽命八劫；無想諸天，¶
@@ -368,9 +364,9 @@
 「　「花色及諸法，
 　壽命衣第五，¶
 　市買并嫁娶，
-　二根食為十。
+　二根食為十。」
 #+END_VERSE
-」¶
+¶
 
 「諸比丘！世間眾生，皆悉有此三種惡行。何¶
 等為三？所謂身惡、口惡、意惡。諸比丘！有一¶
